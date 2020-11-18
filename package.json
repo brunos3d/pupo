@@ -1,6 +1,6 @@
 {
     "name": "pupo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "📦 NODE.JS - Simple micro templating based on pupa using object-path.",
     "license": "MIT",
     "repository": "BrunoS3D/pupo",
@@ -10,7 +10,7 @@
         "url": "https://brunos3d.github.io/"
     },
     "engines": {
-        "node": ">=8"
+        "node": ">=10"
     },
     "scripts": {
         "test": "ava && tsd"

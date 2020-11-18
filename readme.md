@@ -1,4 +1,4 @@
-# pupo [![Build Status](https://travis-ci.com/BrunoS3D/pupo.svg?branch=master)](https://travis-ci.org/BrunoS3D/pupo)
+# pupo [![Build Status](https://travis-ci.org/BrunoS3D/pupo.svg?branch=main)](https://travis-ci.org/BrunoS3D/pupo)
 
 > 📦 NODE.JS - Simple micro templating based on pupa using object-path.
 
