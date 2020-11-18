@@ -1,0 +1,48 @@
+{
+    "name": "pupo",
+    "version": "1.0.0",
+    "description": "📦 NODE.JS - Simple micro templating based on pupa using object-path.",
+    "license": "MIT",
+    "repository": "BrunoS3D/pupo",
+    "author": {
+        "name": "Bruno Silva",
+        "email": "bruno3dcontato@gmail.com",
+        "url": "https://brunos3d.github.io/"
+    },
+    "engines": {
+        "node": ">=8"
+    },
+    "scripts": {
+        "test": "ava && tsd"
+    },
+    "files": [
+        "index.js",
+        "index.d.ts"
+    ],
+    "keywords": [
+        "string",
+        "formatting",
+        "template",
+        "object",
+        "format",
+        "interpolate",
+        "interpolation",
+        "templating",
+        "expand",
+        "simple",
+        "replace",
+        "placeholders",
+        "values",
+        "transform",
+        "micro",
+        "object-path"
+    ],
+    "dependencies": {
+        "escape-goat": "^2.0.0",
+        "object-path": "^0.11.5"
+    },
+    "devDependencies": {
+        "ava": "^3.13.0",
+        "tsd": "^0.13.1"
+    }
+}
