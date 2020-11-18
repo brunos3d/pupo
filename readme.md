@@ -1,4 +1,11 @@
-# pupo [![Build Status](https://travis-ci.org/BrunoS3D/pupo.svg?branch=main)](https://travis-ci.org/BrunoS3D/pupo)
+# pupo 
+
+[![npm version](https://badge.fury.io/js/pupo.svg)](http://badge.fury.io/js/pupo)
+[![npm downloads](https://img.shields.io/npm/dm/pupo.svg)](http://badge.fury.io/js/pupo)
+[![Build Status](https://travis-ci.org/BrunoS3D/pupo.svg?branch=main)](https://travis-ci.org/BrunoS3D/pupo)
+[![object-path Dependency](https://img.shields.io/npm/dependency-version/pupo/object-path)](https://www.npmjs.com/package/object-path)
+[![escape-goat Dependency](https://img.shields.io/npm/dependency-version/pupo/escape-goat)](https://www.npmjs.com/package/escape-goat)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=BrunoS3D/pupo)](https://github.com/BrunoS3D/pupo)
 
 > 📦 NODE.JS - Simple micro templating based on pupa using object-path.
 
@@ -7,6 +14,8 @@ Useful when all you need is to fill in some placeholders.
 Pupo implements the [object-path](https://www.npmjs.com/package/object-path) package to resolve the values of the data object.
 
 ## Install
+
+> 
 
 ```
 $ npm install pupo
